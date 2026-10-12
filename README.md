@@ -1,5 +1,7 @@
 # ローソン条件をPythonで計算する｜核融合が"成立"する境界
 
+[![run](https://github.com/jumpei1228/fusion-lawson-criterion-python/actions/workflows/run.yml/badge.svg)](https://github.com/jumpei1228/fusion-lawson-criterion-python/actions/workflows/run.yml)
+
 核融合が発電として成り立つ条件「ローソン条件（三重積）」をPythonで計算。密度・温度・閉じ込め時間の3つの掛け算がなぜ効くのか、ITERやレーザー方式がどの数値を狙うのかを、コードで確かめます。
 
 > 📖 このコードの詳しい解説（理論・図解つき）は元記事をどうぞ:
